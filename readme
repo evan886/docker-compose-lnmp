@@ -1,0 +1,4 @@
+  #sudo docker-compose  build php
+
+visa 
+localhost:5000/1.php 
